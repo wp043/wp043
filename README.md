@@ -1,9 +1,8 @@
-<p align="center">
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> HI!
-</p>
+<h1 align="center"> Hi! This is Wendy Pan! </h1>
+
 
 <p align="center">
-:zap: college freshman trying to learn programming all the time
+:zap: a college freshman trying to learn programming all the time
 </p>
 
 <p align="center">
