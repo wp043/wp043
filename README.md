@@ -2,7 +2,7 @@
 
 
 <p align="center">
-:zap: a college freshman trying to learn programming all the time
+:zap: a second-year undergrad trying to learn programming all the time
 </p>
 
 <p align="center">
