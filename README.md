@@ -2,7 +2,7 @@
 
 
 <p align="center">
-:zap: a second-year undergrad trying to learn programming all the time
+:zap: a second-year undergrad at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in [Computer Science](https://scs.gatech.edu/).
 </p>
 
 <p align="center">
