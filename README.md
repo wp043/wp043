@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wendy Pan</h1>
-<h3 align="center">a second-year undergrad at <a href="https://www.gatech.edu/">Georgia Tech</a> majoring in <a href="https://scs.gatech.edu/">Computer Science</a> with the focus on Intelligence and Information & Network threads</h3>
+<h1 align="center">Wendy Pan</h1>
+<h3 align="center">a second-year undergrad at <a href="https://www.gatech.edu/">Georgia Tech</a> majoring in <a href="https://scs.gatech.edu/">Computer Science</a> with the focus on <a href="https://www.cc.gatech.edu/academics/threads/intelligence">Intelligence</a> and <a href="https://www.cc.gatech.edu/academics/threads/information-internetworks">Information Internetworks</a></h3>
 
 <p align="left">
 </p>
