@@ -1,6 +1,5 @@
 <h1 align="center">Wendy Pan</h1>
 <h3 align="center">a second-year undergrad at <a href="https://www.gatech.edu/">Georgia Tech</a> majoring in <a href="https://scs.gatech.edu/">Computer Science</a> with the focus on <a href="https://www.cc.gatech.edu/academics/threads/intelligence">Intelligence</a> and <a href="https://www.cc.gatech.edu/academics/threads/information-internetworks">Information Internetworks</a></h3>
-- 🚀 &nbsp; I'm currently learning ML, AI, Info Security, Perception and Robotic, Automata and Complexity, Android Studio
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,15 +9,6 @@
   <summary><b>Stats</b></summary>
 
 <br />
-<picture>
-  <source height="150em"
-    srcset="https://leetcard.jacoblin.cool/wp043?border=0&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source height="150em"
-    srcset="https://leetcard.jacoblin.cool/wp043?border=0"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://leetcard.jacoblin.cool/wp043?border=0" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&theme=transparent" />
+  <img src="https://leetcard.jacoblin.cool/wp043?theme=dark" />
 </details>
