@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://wp043.github.io/portfolio/">Wendy Pan</a></h1>
-<h4 align="center">a rising third-year undergrad at <a href="https://www.gatech.edu/">Georgia Tech</a> majoring in <a href="https://scs.gatech.edu/">Computer Science</a> with the focus on <a href="https://www.cc.gatech.edu/academics/threads/intelligence">Intelligence</a> and <a href="https://www.cc.gatech.edu/academics/threads/information-internetworks">Information Internetworks</a></h4>
-<h4 align="left">Connect with me:</h4>
+<h3 align="center">a rising third-year undergrad at <a href="https://www.gatech.edu/">Georgia Tech</a> majoring in <a href="https://scs.gatech.edu/">Computer Science</a> with the focus on <a href="https://www.cc.gatech.edu/academics/threads/intelligence">Intelligence</a> and <a href="https://www.cc.gatech.edu/academics/threads/information-internetworks">Information Internetworks</a></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yingtong-pan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yingtong-pan" height="30" width="40" /></a>
 <a href="https://instagram.com/wendy_pan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wendy_pan04" height="30" width="40" /></a>
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wp043&label=Profile%20views&color=0e75b6&style=flat" alt="wp043" /> </p>
 
-<h4 align="left">This summer I will be: </h4>
+<h3 align="left">This summer I will be: </h3>
 
 - Working as a system integration intern at Huatai Insurance Group
 - Working as a part-time software engineer intern at GYFR
@@ -16,12 +16,12 @@
 - Grinding Leetcode
 - Applying endlessly (please don't) for 2024 Fall, 2025 Spring, 2025 Summer internships (not sure if I'm gonna do Master's but we'll see :)
 
-<h4 align="left">Hopefully still have time to: </h4>
+<h3 align="left">Hopefully still have time to: </h3>
 
 - Work on one or two personal project
 - Get a certification (AWS?)
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -55,10 +55,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary><b>Stats</b></summary>
-
-<br />
-  <img src="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&theme=transparent" />
-  <img src="https://leetcard.jacoblin.cool/wp043?theme=dark" />
-</details>
+<h3 align="left">Stats: </h3>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&theme=transparent" style="width: 450px;" />
+    <img src="https://leetcard.jacoblin.cool/wp043?theme=dark" style="width: 450px;" />
+</div>
