@@ -57,6 +57,6 @@
 
 <h3 align="left">Stats: </h3>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&theme=transparent" style="width: 450px;" />
-    <img src="https://leetcard.jacoblin.cool/wp043?theme=dark" style="width: 450px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&theme=transparent" style="width: 400px;" />
+    <img src="https://leetcard.jacoblin.cool/wp043?theme=dark" style="width: 400px;" />
 </div>
