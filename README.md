@@ -9,7 +9,7 @@
 <h3 align="left">This summer I will be: </h3>
 
 - Working as a system integration intern at Huatai Insurance Group
-- Working as a part-time software engineer intern at GYFR
+- Working as a software engineer intern at Gyfr (startup)
 - Working as a backend development engineer in a team with my friends
 - Grinding Leetcode
 - Applying endlessly (please don't) for 2024 Fall, 2025 Spring, 2025 Summer internships (not sure if I'm gonna do Master's but we'll see :)
