@@ -6,8 +6,6 @@
 <a href="https://instagram.com/wendy_pan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wendy_pan04" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wp043&label=Profile%20views&color=0e75b6&style=flat" alt="wp043" /> </p>
-
 <h3 align="left">This summer I will be: </h3>
 
 - Working as a system integration intern at Huatai Insurance Group
