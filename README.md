@@ -6,7 +6,7 @@
 <a href="https://instagram.com/wendy_pan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wendy_pan04" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">This summer I will be: </h3>
+<h3 align="left">This summer (by Aug 18th) I will be: </h3>
 
 - Working as a system integration intern at Huatai Insurance Group
 - Working as a software engineer intern at Gyfr (startup)
