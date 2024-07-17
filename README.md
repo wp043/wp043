@@ -54,6 +54,37 @@
 
 <h3 align="left">Stats: </h3>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&theme=transparent" style="width: 400px;" />
-    <img src="https://leetcard.jacoblin.cool/wp043?theme=dark" style="width: 400px;" />
+    <picture>
+      <source height="180em"
+        srcset="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source height="180em"
+        srcset="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    </picture>
+    <picture>
+      <source height="180em"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source height="180em"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+    </picture>
+    <picture>
+      <source height="150em"
+        srcset="https://leetcard.jacoblin.cool/wp043?border=0&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source height="150em"
+        srcset="https://leetcard.jacoblin.cool/wp043?border=0"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://leetcard.jacoblin.cool/wp043?border=0" />
+    </picture>
 </div>
