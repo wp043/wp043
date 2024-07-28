@@ -78,6 +78,17 @@
     </picture>
     <picture>
       <source height="150em"
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=wp043&hide_border=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source height="150em"
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=wp043&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wp043&hide_border=true" />
+    </picture>
+    <picture>
+      <source height="150em"
         srcset="https://leetcard.jacoblin.cool/wp043?border=0&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
