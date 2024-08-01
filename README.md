@@ -56,43 +56,35 @@
 <div style="display: flex; justify-content: space-between;">
     <picture>
       <source height="180em"
-        srcset="https://github-readme-stats-ten-steel-85.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"
+        srcset="https://github-readme-stats-ten-steel-85.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&card_width=500"
         media="(prefers-color-scheme: dark)"
       />
       <source height="180em"
-        srcset="https://github-readme-stats-ten-steel-85.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"
+        srcset="https://github-readme-stats-ten-steel-85.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&card_width=500"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats-ten-steel-85.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+      <img src="https://github-readme-stats-ten-steel-85.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&card_width=500" />
     </picture>
     <picture>
       <source height="180em"
-        srcset="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"
+        srcset="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&card_width=460"
         media="(prefers-color-scheme: dark)"
       />
       <source height="180em"
-        srcset="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        srcset="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=460"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+      <img src="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=460" />
     </picture>
     <picture>
-      <source height="150em"
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=wp043&hide_border=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source height="150em"
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=wp043&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wp043&hide_border=true" />
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wp043&theme=dark&hide_border=true&card_width=460&card_height=180"" alt="GitHub Streak" /></a>
     </picture>
     <picture>
-      <source height="150em"
+      <source height="180em"
         srcset="https://leetcard.jacoblin.cool/wp043?border=0&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
-      <source height="150em"
+      <source height="180em"
         srcset="https://leetcard.jacoblin.cool/wp043?border=0"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
