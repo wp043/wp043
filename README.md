@@ -77,7 +77,7 @@
       <img src="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
     </picture>
     <picture>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wp043&theme=dark&hide_border=true&card_width=400&card_height=180"" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wp043&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
     </picture>
     <picture>
       <source height="180em"
