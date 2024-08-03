@@ -1,5 +1,5 @@
 <h1 align="center">Wendy Pan</h1>
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/yingtong-pan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yingtong-pan" height="30" width="40" /></a>
     <a href="https://instagram.com/wendy_pan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wendy_pan04" height="30" width="40" /></a>
 </p>
@@ -55,7 +55,7 @@
     <div style="display: flex; justify-content: space-between;">
         <picture>
           <source height="170em"
-            srcset="https://github-readme-stats-ten-steel-85.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"
+            srcset="https://github-readme-stats-ten-steel-85.vercel.app/api?username=wp043&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent"
             media="(prefers-color-scheme: dark)"
           />
           <source height="170em"
@@ -66,7 +66,7 @@
         </picture>
         <picture>
           <source height="170em"
-            srcset="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"
+            srcset="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"
             media="(prefers-color-scheme: dark)"
           />
           <source height="170em"
@@ -76,26 +76,20 @@
           <img src="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
         </picture>
         <picture>
-          <source height="150em"
-            srcset="https://streak-stats.demolab.com?user=wp043&theme=dark&hide_border=true"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source height="150em"
-            srcset="https://streak-stats.demolab.com?user=wp043&theme=dark&hide_border=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img src="https://streak-stats.demolab.com?user=wp043&theme=dark&hide_border=true" height="150em" alt="GitHub Streak" />
+          <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wp043&theme=transparent&hide_border=true&card_width=500&card_height=150" alt="GitHub Streak" /></a>
         </picture>
+	<br>
+	<br>
         <picture>
-          <source height="150em"
-            srcset="https://leetcard.jacoblin.cool/wp043?border=0&theme=dark"
-            media="(prefers-color-scheme: dark)"
+	  <source height="150em"
+            srcset="https://leetcard.jacoblin.cool/wp043?border=0&theme=dark&show_rank=false"
+            media="(prefers-color-scheme: transparent)"
           />
           <source height="150em"
-            srcset="https://leetcard.jacoblin.cool/wp043?border=0"
+            srcset="https://leetcard.jacoblin.cool/wp043?border=0&show_rank=false"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://leetcard.jacoblin.cool/wp043?border=0" />
+          <img src="https://leetcard.jacoblin.cool/wp043?border=0&show_rank=false" />
         </picture>
     </div>
 </div>
