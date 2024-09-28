@@ -3,7 +3,7 @@
     <a href="https://linkedin.com/in/yingtong-pan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yingtong-pan" height="30" width="40" /></a>
     <a href="https://instagram.com/wendy_pan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wendy_pan04" height="30" width="40" /></a>
 </p>
-<p align="center">a rising third-year CS undergrad at Georgia Tech with the focus on Intelligence and Information Internetworks</p>
+<p align="center">a third-year CS undergrad at Georgia Tech with the focus on Intelligence and Information Internetworks</p>
 <br>
 <br>
 
