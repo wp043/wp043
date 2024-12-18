@@ -75,10 +75,6 @@
           />
           <img src="https://github-readme-stats-ten-steel-85.vercel.app/api/top-langs/?username=wp043&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
         </picture>
-        <picture>
-          <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wp043&theme=transparent&hide_border=true&card_width=500&card_height=150&" alt="GitHub Streak" /></a>
-        </picture>
-	<br>
 	<br>
         <picture>
 	  <source height="150em"
