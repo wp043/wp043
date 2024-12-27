@@ -21,14 +21,23 @@ jobs:
           template: classic
           base: header, activity, community
           config_timezone: America/New_York
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 3
           plugin_activity_load: 100
           plugin_activity_visibility: all
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
