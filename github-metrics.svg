@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="704" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
     <defs>
         <style/>
     </defs>
@@ -229,21 +229,41 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">gyfr-app/gyfr-firestore-api</span>
+                                        Pushed 7 commits in
+                                        <span class="repo">gyfr-app/gyfr-mvp</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#65c1f96</div>
-                                        <div class="message">Merge pull request #28 from gyfr-app/fix/session-history-retrieval
+                                        <div class="sha">#5463a2b</div>
+                                        <div class="message">Merge pull request #101 from gyfr-app/AA-128-Error-Handling
 
-refactor(clientVerification): improve session filtering and response …</div>
+AA-128-Error-Handling</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#449f79d</div>
-                                        <div class="message">refactor(clientVerification): improve session filtering and response structure in `getSessionsByclientID`</div>
+                                        <div class="sha">#66b124c</div>
+                                        <div class="message">fix: merge conflict</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecd4cb8</div>
+                                        <div class="message">add missing content</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e98606d</div>
+                                        <div class="message">add missing content</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf70620</div>
+                                        <div class="message">search trainer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7a4839</div>
+                                        <div class="message">Merge branch 'main' into AA-128-Error-Handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#314a0a6</div>
+                                        <div class="message">error handling</div>
                                     </div>
                                 </div>
                             </section>
@@ -256,12 +276,12 @@ refactor(clientVerification): improve session filtering and response …</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#28 refactor(clientVerification): improve session filtering and response …</span>
+                                        <span class="issue">#101 AA-128-Error-Handling</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">gyfr-app/gyfr-firestore-api</span></div>
-                                    <div>2 files changed <span class="code">++60 --12</span></div>
+                                    <div>opened by sharsdylow in <span class="repo">gyfr-app/gyfr-mvp</span></div>
+                                    <div>12 files changed <span class="code">++539 --237</span></div>
                                 </div>
                             </section>
                         </div>
@@ -272,12 +292,20 @@ refactor(clientVerification): improve session filtering and response …</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 11 commits in
                                         <span class="repo">gyfr-app/gyfr-mvp</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">AA-128-Error-Handling</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#66b124c</div>
+                                        <div class="message">fix: merge conflict</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f055624</div>
+                                        <div class="message">feat(trainer-reservation): improve time display logic to show remaining time in hours and minutes</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#699396d</div>
                                         <div class="message">Merge pull request #103 from gyfr-app/AA-139-Previous-Session-Bug
@@ -287,6 +315,38 @@ refactor: enhance session fetching logic and improve error handling i…</div>
                                     <div class="commit">
                                         <div class="sha">#6e28845</div>
                                         <div class="message">refactor: enhance session fetching logic and improve error handling in client and trainer profiles</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba6347d</div>
+                                        <div class="message">recover some been overwritten stuff for creating checkout session</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd9d720</div>
+                                        <div class="message">Merge pull request #102 from gyfr-app/user-role-bug-fix
+
+cleaned console logs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2061b76</div>
+                                        <div class="message">checking role based on url &amp; silently handling errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a2c062</div>
+                                        <div class="message">cleaned console logs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#019b15b</div>
+                                        <div class="message">Merge pull request #99 from gyfr-app/AA-122-Trainer-Reservation-Money-Handling-Integration
+
+show correct amount on trainer side</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7227ccc</div>
+                                        <div class="message">Update income calculation to reflect session length and change income type to string</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c21a250</div>
+                                        <div class="message">show correct amount on trainer side</div>
                                     </div>
                                 </div>
                             </section>
