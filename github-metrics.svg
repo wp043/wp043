@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="688" class="">
     <defs>
         <style/>
     </defs>
@@ -229,6 +229,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">gyfr-app/gyfr-mvp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#87cf2bd</div>
+                                        <div class="message">deploy package</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">gyfr-app/gyfr-firestore-api</span>
                                     </div>
@@ -262,89 +282,6 @@ Stripe checkout page configuration</div>
                                 <div class="details">
                                     <div> in <span class="repo">gyfr-app/gyfr-firestore-api</span></div>
                                     <div>1 file changed <span class="code">++5 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 16 commits in
-                                        <span class="repo">gyfr-app/gyfr-mvp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e22d72e</div>
-                                        <div class="message">Merge pull request #100 from gyfr-app/AA-114-request-notification
-
-AA-114-request-notification</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c474373</div>
-                                        <div class="message">local timezone showing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eebe2c</div>
-                                        <div class="message">Merge branch 'AA-114-request-notification' of github.com:gyfr-app/gyfr-mvp into AA-114-request-notification</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3130766</div>
-                                        <div class="message">Merge branch 'main' into AA-114-request-notification</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db540b5</div>
-                                        <div class="message">merge conflict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a76b05</div>
-                                        <div class="message">feat(trainer-home): update session access logic to allow entry 5 minutes before scheduled time
-fix(video-page-wrapper): update session storage logic to check for 'Agent' instead of 'trainerID'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f88a8a</div>
-                                        <div class="message">merge conflict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1912192</div>
-                                        <div class="message">minor change</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#332f845</div>
-                                        <div class="message">handle income</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#852219c</div>
-                                        <div class="message">handle income</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b099bc4</div>
-                                        <div class="message">move send email to client confirmation page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4f4be2</div>
-                                        <div class="message">datatype change</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#458e6f0</div>
-                                        <div class="message">Merge branch 'main' into AA-114-request-notification</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc8f0a1</div>
-                                        <div class="message">Merge branch 'main' into AA-114-request-notification</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d13b0c</div>
-                                        <div class="message">modify choose timing page accessiblility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0c3a98</div>
-                                        <div class="message">call send notification api</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
