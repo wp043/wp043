@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="605" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="921" class="">
     <defs>
         <style/>
     </defs>
@@ -226,6 +226,114 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 93 commits in
+                                        <span class="repo">wp043/responsively-app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8c62e61</div>
+                                        <div class="message">update .all-contributorsrc [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4379acf</div>
+                                        <div class="message">update README.md [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19e2744</div>
+                                        <div class="message">Merge pull request #1282 from pranavithape/main
+
+Unable to edit information ...  #1279: fixed focus issue - it electro…</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5326597</div>
+                                        <div class="message">Version bump</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7292764</div>
+                                        <div class="message">Merge pull request #1288 from responsively-org/all-contributors/add-wp043
+
+add wp043 as a contributor for code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#782bb74</div>
+                                        <div class="message">update .all-contributorsrc [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ebe72dc</div>
+                                        <div class="message">update README.md [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a06996</div>
+                                        <div class="message">Merge pull request #1287 from responsively-org/all-contributors/add-violetadev
+
+add violetadev as a contributor for test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ece83b7</div>
+                                        <div class="message">Fixed all-contributors' marker</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37e19ed</div>
+                                        <div class="message">Merge pull request #1285 from responsively-org/all-contributors/add-brandonyee-cs
+
+add brandonyee-cs as a contributor for content</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bcb167</div>
+                                        <div class="message">update .all-contributorsrc [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97c229d</div>
+                                        <div class="message">update README.md [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0415e0</div>
+                                        <div class="message">update .all-contributorsrc [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec66b49</div>
+                                        <div class="message">update README.md [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f7c6ef</div>
+                                        <div class="message">Merge pull request #1230 from brandonyee-cs/patch-1
+
+Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5fa6d1</div>
+                                        <div class="message">Merge pull request #1277 from wp043/dpr-decimal
+
+DPI to DPR</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c3078d</div>
+                                        <div class="message">Unable to edit information ...  #1279: fixed focus issue - it electron bug of focus</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e41e38</div>
+                                        <div class="message">fix: add migration to rename dpi to dpr in custom devices</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5bb940</div>
+                                        <div class="message">fix dpr</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03382bd</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -252,26 +360,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gyfr-app/gyfr-mvp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d164cbc</div>
-                                        <div class="message">refactor(choose-timing): update date and time pickers to new variants</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -288,8 +376,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="57.68243831640058 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">604</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="57.77793904208998 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">605</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3445</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -297,8 +385,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.33177570093459 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">196</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.7161214953271 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">197</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/856</text>
                                 </svg>
                                 <span class="title">Easy</span>
