@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 11 repositories
+                            Contributed to 12 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            895 Commits
+                            897 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -153,14 +153,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.68248248901196" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="202.68248248901196" y="0" width="121.68995237890967" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="324.3724348679216" y="0" width="60.98351119546283" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="385.3559460633844" y="0" width="25.89440607897911" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="411.2503521423635" y="0" width="24.426167405601078" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="435.67651954796463" y="0" width="12.877584487523945" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="448.55410403548854" y="0" width="6.50325797178816" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.0573620072767" y="0" width="4.942637992723281" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.6821821806633" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="202.6821821806633" y="0" width="121.6897720746811" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="324.3719542553444" y="0" width="60.98410240581985" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.35605666116425" y="0" width="25.89436771204067" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="411.2504243732049" y="0" width="24.426131214106345" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="435.6765555873113" y="0" width="12.877565407206374" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="448.5541209945177" y="0" width="6.503248336112504" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.0573693306302" y="0" width="4.94263066936985" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -230,7 +230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ghostty-org/ghostty</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</div>
@@ -283,7 +283,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>manaflow-ai/cmux</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents</div>
@@ -310,14 +310,14 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        748
+                                        750
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        875
+                                        877
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
