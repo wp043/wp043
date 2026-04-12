@@ -230,7 +230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sma1lboy/autonomous-skill</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-driving project agent for Claude Code. Drop into any git repo, invoke /autonomous-skill, and it loops — finding tasks, fixing code, committing results.</div>
@@ -385,8 +385,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="59.28915662650603 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">703</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="59.45783132530121 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">705</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3901</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -403,8 +403,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="66.73493385595296 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">414</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.05732484076434 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">416</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2041</text>
                                 </svg>
                                 <span class="title">Medium</span>
